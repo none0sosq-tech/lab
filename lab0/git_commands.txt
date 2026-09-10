@@ -1,1 +1,10 @@
-
+git clone
+git status
+git add
+git commit
+git push
+git delete
+git update
+git diff
+git reset
+git branch
